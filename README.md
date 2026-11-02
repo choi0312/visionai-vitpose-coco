@@ -1,6 +1,6 @@
 # ViTPose 2D 자세 추정과 입력 조건 비교
 
-9주차 자세 추정 수업을 바탕으로 Hugging Face의 **ViTPose base simple**을 Colab Tesla T4에서 실행했다. COCO val2017의 CC BY 2.0 이미지 100장·284명에서 17개 키포인트와 골격을 추출하고, 영상 열화·사람 검출 단계·2D 무릎 각도의 영향을 확인했다.
+Hugging Face의 **ViTPose base simple**을 Colab Tesla T4에서 실행했다. COCO val2017의 CC BY 2.0 이미지 100장·284명에서 17개 키포인트와 골격을 추출하고, 영상 열화·사람 검출 단계·2D 무릎 각도의 영향을 확인했다.
 
 **추가 학습은 수행하지 않았다.** 같은 사전학습 가중치를 고정한 추론 실험이다. COCO 검증셋 일부를 이용한 점검이며 새 카메라나 실제 운동 서비스에 대한 독립 검증이 아니다.
 
@@ -18,7 +18,7 @@
 
 위 행은 충분한 관절 주석과 크기 조건을 만족한 사람 중 원본 PCK의 중앙 순위 사례, 아래 행은 원본 대비 열화 PCK 하락이 가장 큰 사례다. 사람 선택 규칙과 ID는 `results/selected_examples.json`에 있다. 그림은 전체 평균만으로 드러나지 않는 오류를 설명하기 위한 사후 선택이다.
 
-## 수업 개념과 실험의 연결
+## 모델 구조와 실험의 연결
 
 - **관절과 골격:** 코·눈·귀·어깨·팔꿈치·손목·엉덩이·무릎·발목의 17점과 체크포인트의 연결 규칙을 사용했다. 모든 점을 서로 잇지 않는다.
 - **Top-down:** 사람 박스를 먼저 얻고 각 박스에서 자세를 추정한다. 원본 정답 박스는 사람 위치를 이미 아는 oracle 조건이다. 실제 검출기와 연결한 조건을 별도로 두었다. Bottom-up 모델을 실행하거나 두 구조의 속도를 비교한 실험은 아니다.
@@ -112,7 +112,7 @@ colab stop -s visionai-week9-pose
 colab sessions
 ```
 
-실제 결과를 회수한 후 세션 종료와 활성 세션 없음까지 확인했다. 개인 로그인 정보·강의 전사본·제출용 보고서는 이 저장소에 포함하지 않았다.
+실제 결과를 회수한 후 세션 종료와 활성 세션 없음까지 확인했다. 개인 로그인 정보와 제출용 보고서는 이 저장소에 포함하지 않았다.
 
 ## 적용 아이디어와 다음 검증
 
@@ -124,6 +124,5 @@ colab sessions
 - [Transformers ViTPose 문서](https://huggingface.co/docs/transformers/model_doc/vitpose): 박스 입력과 히트맵 좌표 후처리.
 - [ViTPose 논문](https://arxiv.org/abs/2204.12484), [공식 구현](https://github.com/ViTAE-Transformer/ViTPose).
 - [COCO 데이터 형식](https://cocodataset.org/#format-data), [다운로드](https://cocodataset.org/#download), [이용 조건](https://cocodataset.org/#termsofuse).
-- 제공된 9주차 Pose Estimation 강의자료와 강의 전사본은 개념·실습 범위를 정하는 데 참고했으며 재배포하지 않았다.
 
-코드 구현, 자료 대조, Colab 실행, 결과 검증, 보고서 문장 작성에는 Codex의 도움을 받았다. 실험 수치는 저장된 실제 GPU 좌표와 로그에서 계산했다.
+코드는 GPT 6.1 Sol 모델을 활용해 작성하고, 코드 검토는 작성자가 직접 수행했다. 보고서에 사용한 시각화 자료는 GPT 6.1 Sol 모델을 활용해 제작했다. 보고서 내용은 작성자가 초안을 작성한 뒤 AI의 도움으로 문장과 표현을 다듬었다.
