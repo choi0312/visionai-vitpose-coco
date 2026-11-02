@@ -1,0 +1,1762 @@
+[
+  {
+    "annotation_id": 1234574,
+    "side": "left",
+    "gt_degrees": 171.22543975230332,
+    "clean": 171.25049583767935,
+    "degraded": 174.36429528583858,
+    "detected": 172.10352476581588
+  },
+  {
+    "annotation_id": 1234574,
+    "side": "right",
+    "gt_degrees": 178.5717623123542,
+    "clean": 178.18307931112608,
+    "degraded": 178.79657883919614,
+    "detected": 177.92328122269063
+  },
+  {
+    "annotation_id": 1259139,
+    "side": "left",
+    "gt_degrees": 178.24369417721107,
+    "clean": 177.88115786599127,
+    "degraded": 176.7570364400802,
+    "detected": 178.42913493306122
+  },
+  {
+    "annotation_id": 1269164,
+    "side": "left",
+    "gt_degrees": 170.5337157022557,
+    "clean": 163.11924160194548,
+    "degraded": 167.93914654424088,
+    "detected": 165.8150605732733
+  },
+  {
+    "annotation_id": 1269164,
+    "side": "right",
+    "gt_degrees": 178.7324910810974,
+    "clean": 179.54087867640126,
+    "degraded": 175.0990844346659,
+    "detected": 177.78565721235296
+  },
+  {
+    "annotation_id": 1311471,
+    "side": "left",
+    "gt_degrees": 177.38346492141756,
+    "clean": 178.59333877952238,
+    "degraded": 177.82955108826866,
+    "detected": 179.17580353984457
+  },
+  {
+    "annotation_id": 1311471,
+    "side": "right",
+    "gt_degrees": 153.70065247244239,
+    "clean": 157.48294968442997,
+    "degraded": 158.55675919767998,
+    "detected": 157.1863210200324
+  },
+  {
+    "annotation_id": 426225,
+    "side": "left",
+    "gt_degrees": 159.05487660670238,
+    "clean": 166.05896894844506,
+    "degraded": 174.2007082909489,
+    "detected": 165.65984578116777
+  },
+  {
+    "annotation_id": 426225,
+    "side": "right",
+    "gt_degrees": 154.59228189105153,
+    "clean": 167.43240358886436,
+    "degraded": 174.59225406225497,
+    "detected": 164.36409697718753
+  },
+  {
+    "annotation_id": 442908,
+    "side": "left",
+    "gt_degrees": 118.69753932367315,
+    "clean": 114.89610535584774,
+    "degraded": 114.85219483210807,
+    "detected": 114.53093790664634
+  },
+  {
+    "annotation_id": 442908,
+    "side": "right",
+    "gt_degrees": 56.60517381324097,
+    "clean": 62.641239508131484,
+    "degraded": 61.01352261510017,
+    "detected": 61.36229498299521
+  },
+  {
+    "annotation_id": 475509,
+    "side": "right",
+    "gt_degrees": 78.69006752597979,
+    "clean": 98.66283204901202,
+    "degraded": 93.3297214968038,
+    "detected": 96.02462551676575
+  },
+  {
+    "annotation_id": 547120,
+    "side": "left",
+    "gt_degrees": 120.82341197623055,
+    "clean": 120.43844450841546,
+    "degraded": 122.94668343903975,
+    "detected": 121.09277310791235
+  },
+  {
+    "annotation_id": 547120,
+    "side": "right",
+    "gt_degrees": 150.92754674900397,
+    "clean": 149.1534332049567,
+    "degraded": 149.2385194284827,
+    "detected": 148.46715889567935
+  },
+  {
+    "annotation_id": 2155598,
+    "side": "right",
+    "gt_degrees": 75.65066795705286,
+    "clean": 76.5904422695859,
+    "degraded": 80.34381145956705,
+    "detected": 77.23831265386431
+  },
+  {
+    "annotation_id": 1681269,
+    "side": "left",
+    "gt_degrees": 171.55247275209152,
+    "clean": 177.7089708333205,
+    "degraded": 169.94587594602308,
+    "detected": 177.53086606699532
+  },
+  {
+    "annotation_id": 1681269,
+    "side": "right",
+    "gt_degrees": 171.77841962961944,
+    "clean": 168.6724040106271,
+    "degraded": 162.34992526946354,
+    "detected": 168.74216907651845
+  },
+  {
+    "annotation_id": 1733380,
+    "side": "left",
+    "gt_degrees": 153.4557307514677,
+    "clean": 157.82108809883883,
+    "degraded": 156.98764139066174,
+    "detected": 157.36920839809065
+  },
+  {
+    "annotation_id": 1733380,
+    "side": "right",
+    "gt_degrees": 173.48172414196202,
+    "clean": 173.68900315071957,
+    "degraded": 177.75116842444547,
+    "detected": 174.21588895984692
+  },
+  {
+    "annotation_id": 1755623,
+    "side": "left",
+    "gt_degrees": 176.63353933657007,
+    "clean": 171.47442010188294,
+    "degraded": 175.35392412888802,
+    "detected": 172.65826103832305
+  },
+  {
+    "annotation_id": 1755623,
+    "side": "right",
+    "gt_degrees": 166.56004840625204,
+    "clean": 178.80833972433933,
+    "degraded": 177.87449991101144,
+    "detected": 179.16348170949536
+  },
+  {
+    "annotation_id": 441780,
+    "side": "left",
+    "gt_degrees": 161.61474394823748,
+    "clean": 165.08705489677496,
+    "degraded": 168.00189683333508,
+    "detected": 167.11448605339615
+  },
+  {
+    "annotation_id": 441780,
+    "side": "right",
+    "gt_degrees": 162.97947438848018,
+    "clean": 160.5200145352971,
+    "degraded": 161.644282221793,
+    "detected": 160.81241064236175
+  },
+  {
+    "annotation_id": 430983,
+    "side": "left",
+    "gt_degrees": 173.44026939832463,
+    "clean": 171.03359639152004,
+    "degraded": 172.60838600014324,
+    "detected": 172.63681264681327
+  },
+  {
+    "annotation_id": 430983,
+    "side": "right",
+    "gt_degrees": 166.63066141213113,
+    "clean": 167.14220064037835,
+    "degraded": 167.44181320353286,
+    "detected": 167.6470960448175
+  },
+  {
+    "annotation_id": 449503,
+    "side": "left",
+    "gt_degrees": 100.64018278327275,
+    "clean": 100.54952384835548,
+    "degraded": 103.04500678399309,
+    "detected": 100.64779597013221
+  },
+  {
+    "annotation_id": 449503,
+    "side": "right",
+    "gt_degrees": 151.05122791801944,
+    "clean": 144.63862974647213,
+    "degraded": 146.7488828231278,
+    "detected": 144.66459189020736
+  },
+  {
+    "annotation_id": 452565,
+    "side": "left",
+    "gt_degrees": 168.1901170429718,
+    "clean": 174.15510756431013,
+    "degraded": 175.32319753905986,
+    "detected": 171.5843829544557
+  },
+  {
+    "annotation_id": 452565,
+    "side": "right",
+    "gt_degrees": 167.33598739865235,
+    "clean": 161.55149386485138,
+    "degraded": 156.12218186247912,
+    "detected": 164.8572028479806
+  },
+  {
+    "annotation_id": 456213,
+    "side": "left",
+    "gt_degrees": 172.87498365109823,
+    "clean": 178.57718890067983,
+    "degraded": 173.76816065494887,
+    "detected": 179.7945534631011
+  },
+  {
+    "annotation_id": 474453,
+    "side": "left",
+    "gt_degrees": 158.63288484820848,
+    "clean": 162.2116760658187,
+    "degraded": 162.56570997641907,
+    "detected": 161.56079331971816
+  },
+  {
+    "annotation_id": 474453,
+    "side": "right",
+    "gt_degrees": 170.19444763207647,
+    "clean": 174.968341800766,
+    "degraded": 176.1597257414096,
+    "detected": 174.56515651783047
+  },
+  {
+    "annotation_id": 1208582,
+    "side": "left",
+    "gt_degrees": 171.02737338510363,
+    "clean": 172.50805772832118,
+    "degraded": 173.33589036141143,
+    "detected": 172.2782432567557
+  },
+  {
+    "annotation_id": 1208582,
+    "side": "right",
+    "gt_degrees": 177.14551074227012,
+    "clean": 178.8136881361924,
+    "degraded": 177.1625734018222,
+    "detected": 179.8255703145405
+  },
+  {
+    "annotation_id": 1713302,
+    "side": "left",
+    "gt_degrees": 178.97084519569356,
+    "clean": 177.4246060553518,
+    "degraded": 178.7350905247984,
+    "detected": 177.6342108786574
+  },
+  {
+    "annotation_id": 1713302,
+    "side": "right",
+    "gt_degrees": 167.0053832080835,
+    "clean": 163.78093004489466,
+    "degraded": 162.21315637626026,
+    "detected": 163.80250398750593
+  },
+  {
+    "annotation_id": 1740414,
+    "side": "left",
+    "gt_degrees": 168.47627829610266,
+    "clean": 175.18497615018046,
+    "degraded": 176.67697278094607,
+    "detected": 174.36187374128002
+  },
+  {
+    "annotation_id": 1740414,
+    "side": "right",
+    "gt_degrees": 170.27242144859838,
+    "clean": 177.4750540738715,
+    "degraded": 179.45229727582424,
+    "detected": 179.12495960352993
+  },
+  {
+    "annotation_id": 2011168,
+    "side": "left",
+    "gt_degrees": 174.20720350496794,
+    "clean": 178.94078807849087,
+    "degraded": 177.44582239272927,
+    "detected": 178.38986673219236
+  },
+  {
+    "annotation_id": 2011168,
+    "side": "right",
+    "gt_degrees": 174.20720350496794,
+    "clean": 176.10293365294527,
+    "degraded": 174.7565467744639,
+    "detected": 175.4779526129432
+  },
+  {
+    "annotation_id": 494036,
+    "side": "left",
+    "gt_degrees": 129.0531369460265,
+    "clean": 124.57181752328977,
+    "degraded": 125.66547492323626,
+    "detected": 123.67216327023944
+  },
+  {
+    "annotation_id": 494036,
+    "side": "right",
+    "gt_degrees": 127.26135857553791,
+    "clean": 126.15966632632295,
+    "degraded": 125.68465572258555,
+    "detected": 124.45207003567396
+  },
+  {
+    "annotation_id": 1708708,
+    "side": "right",
+    "gt_degrees": 108.65280244801917,
+    "clean": 117.03713999029691,
+    "degraded": 113.43075166282519,
+    "detected": 115.46414325762018
+  },
+  {
+    "annotation_id": 472656,
+    "side": "right",
+    "gt_degrees": 177.87890360333873,
+    "clean": 177.24318605160207,
+    "degraded": 177.61097616662812,
+    "detected": 174.5963905289449
+  },
+  {
+    "annotation_id": 477624,
+    "side": "left",
+    "gt_degrees": 177.27368900609378,
+    "clean": 171.3930302509403,
+    "degraded": 179.74765178028989,
+    "detected": 172.35689419153036
+  },
+  {
+    "annotation_id": 483916,
+    "side": "left",
+    "gt_degrees": 175.03025927188972,
+    "clean": 176.50227301872482,
+    "degraded": 177.24047263947568,
+    "detected": 176.380157285217
+  },
+  {
+    "annotation_id": 483916,
+    "side": "right",
+    "gt_degrees": 177.39743779750034,
+    "clean": 176.11043016024695,
+    "degraded": 178.40265958378004,
+    "detected": 177.45816146444292
+  },
+  {
+    "annotation_id": 191201,
+    "side": "left",
+    "gt_degrees": 169.64810163465575,
+    "clean": 179.1957053973641,
+    "degraded": 172.59006320490624,
+    "detected": 179.06756792229373
+  },
+  {
+    "annotation_id": 191201,
+    "side": "right",
+    "gt_degrees": 174.85021880187335,
+    "clean": 168.25716567512052,
+    "degraded": 172.61271314326282,
+    "detected": 168.5298825386328
+  },
+  {
+    "annotation_id": 225818,
+    "side": "left",
+    "gt_degrees": 160.07589491527145,
+    "clean": 164.86862261072687,
+    "degraded": 5.0529993766122425,
+    "detected": 167.0804569844354
+  },
+  {
+    "annotation_id": 225818,
+    "side": "right",
+    "gt_degrees": 152.29425438930826,
+    "clean": 174.4140511458996,
+    "degraded": 22.886453277506213,
+    "detected": 172.5175734450541
+  },
+  {
+    "annotation_id": 252355,
+    "side": "right",
+    "gt_degrees": 172.1659383872407,
+    "clean": 170.79842767714356,
+    "degraded": 179.71166423432453,
+    "detected": 169.79077248299038
+  },
+  {
+    "annotation_id": 253873,
+    "side": "left",
+    "gt_degrees": 19.44003482817617,
+    "clean": 10.856848370366496,
+    "degraded": 0.8503101252935277,
+    "detected": 7.671378928591685
+  },
+  {
+    "annotation_id": 253873,
+    "side": "right",
+    "gt_degrees": 45.0,
+    "clean": 41.06398775399331,
+    "degraded": 51.67897904196987,
+    "detected": 41.86210065733507
+  },
+  {
+    "annotation_id": 188853,
+    "side": "right",
+    "gt_degrees": 95.92904682621293,
+    "clean": 101.10571597197921,
+    "degraded": 82.6201930425615,
+    "detected": 101.72967394973756
+  },
+  {
+    "annotation_id": 509683,
+    "side": "left",
+    "gt_degrees": 121.63024942805153,
+    "clean": 125.24839933632758,
+    "degraded": 127.8867820861334,
+    "detected": 125.45811071860726
+  },
+  {
+    "annotation_id": 509683,
+    "side": "right",
+    "gt_degrees": 132.66075178609645,
+    "clean": 137.1329468764631,
+    "degraded": 137.87045536831104,
+    "detected": 136.91455372909934
+  },
+  {
+    "annotation_id": 1710090,
+    "side": "left",
+    "gt_degrees": 167.25740306097134,
+    "clean": 162.0292744031171,
+    "degraded": 158.09938856827412,
+    "detected": 163.04799861339762
+  },
+  {
+    "annotation_id": 1710090,
+    "side": "right",
+    "gt_degrees": 179.87822381883265,
+    "clean": 178.83026093713187,
+    "degraded": 178.6980575126742,
+    "detected": 176.9868749762074
+  },
+  {
+    "annotation_id": 459611,
+    "side": "left",
+    "gt_degrees": 161.42882549243515,
+    "clean": 159.94400759701597,
+    "degraded": 169.6347236160974,
+    "detected": 160.16899368267894
+  },
+  {
+    "annotation_id": 459611,
+    "side": "right",
+    "gt_degrees": 168.08742146664136,
+    "clean": 168.23769389001555,
+    "degraded": 159.26871857949814,
+    "detected": 168.62283586258945
+  },
+  {
+    "annotation_id": 215557,
+    "side": "left",
+    "gt_degrees": 179.5017883873861,
+    "clean": 175.75231589075565,
+    "degraded": 177.168817461424,
+    "detected": 175.1872538860283
+  },
+  {
+    "annotation_id": 252531,
+    "side": "left",
+    "gt_degrees": 159.32752639797138,
+    "clean": 161.7767437288445,
+    "degraded": 163.20496795689172,
+    "detected": 161.43049691772754
+  },
+  {
+    "annotation_id": 252531,
+    "side": "right",
+    "gt_degrees": 167.8864774182096,
+    "clean": 175.03859364485845,
+    "degraded": 171.48928545469863,
+    "detected": 173.82814709353997
+  },
+  {
+    "annotation_id": 199991,
+    "side": "left",
+    "gt_degrees": 123.98693419330448,
+    "clean": 126.31025592167103,
+    "degraded": 123.27595486552795,
+    "detected": 129.10097947630905
+  },
+  {
+    "annotation_id": 210437,
+    "side": "left",
+    "gt_degrees": 140.85482094207214,
+    "clean": 139.75376043767236,
+    "degraded": 142.67379373928486,
+    "detected": 140.36772152433815
+  },
+  {
+    "annotation_id": 226111,
+    "side": "left",
+    "gt_degrees": 161.8024632693321,
+    "clean": 172.60495413070907,
+    "degraded": 178.1522912854183,
+    "detected": 171.50568213016751
+  },
+  {
+    "annotation_id": 234614,
+    "side": "left",
+    "gt_degrees": 166.8659776936037,
+    "clean": 167.4602056555731,
+    "degraded": 165.48469822582305,
+    "detected": 170.4226564279599
+  },
+  {
+    "annotation_id": 1275778,
+    "side": "left",
+    "gt_degrees": 172.48785589694725,
+    "clean": 174.35952097884098,
+    "degraded": 177.2393607645274,
+    "detected": 173.5687916098845
+  },
+  {
+    "annotation_id": 1291852,
+    "side": "left",
+    "gt_degrees": 174.42780219603625,
+    "clean": 179.34181654673085,
+    "degraded": 165.67051377190234,
+    "detected": 178.05509296234825
+  },
+  {
+    "annotation_id": 1291852,
+    "side": "right",
+    "gt_degrees": 174.31253531154059,
+    "clean": 172.0209820040596,
+    "degraded": 172.39692497233827,
+    "detected": 172.16036427170533
+  },
+  {
+    "annotation_id": 1298800,
+    "side": "left",
+    "gt_degrees": 175.30131948270056,
+    "clean": 179.637930254762,
+    "degraded": 171.21691735835716,
+    "detected": 179.38461967674735
+  },
+  {
+    "annotation_id": 1298800,
+    "side": "right",
+    "gt_degrees": 172.9566790988422,
+    "clean": 169.63141841693627,
+    "degraded": 175.20956464639565,
+    "detected": 170.8041335083777
+  },
+  {
+    "annotation_id": 452210,
+    "side": "left",
+    "gt_degrees": 140.96181010366067,
+    "clean": 141.70257160741917,
+    "degraded": 141.30537346577222,
+    "detected": 140.98005384601916
+  },
+  {
+    "annotation_id": 452210,
+    "side": "right",
+    "gt_degrees": 118.91945893602811,
+    "clean": 115.5718807792596,
+    "degraded": 115.36346493779887,
+    "detected": 114.97625096796757
+  },
+  {
+    "annotation_id": 521392,
+    "side": "left",
+    "gt_degrees": 120.2283785078325,
+    "clean": 120.38274132283952,
+    "degraded": 116.03987227959202,
+    "detected": 118.15321063897511
+  },
+  {
+    "annotation_id": 521392,
+    "side": "right",
+    "gt_degrees": 139.07682233959682,
+    "clean": 149.4508202424915,
+    "degraded": 141.85003956773323,
+    "detected": 138.75794554081315
+  },
+  {
+    "annotation_id": 424319,
+    "side": "left",
+    "gt_degrees": 142.30768027684056,
+    "clean": 140.44582801571138,
+    "degraded": 134.62859426086723,
+    "detected": 141.31813208700353
+  },
+  {
+    "annotation_id": 424319,
+    "side": "right",
+    "gt_degrees": 157.52056560289688,
+    "clean": 146.20629439067932,
+    "degraded": 145.02291139148443,
+    "detected": 144.1369580087824
+  },
+  {
+    "annotation_id": 509292,
+    "side": "left",
+    "gt_degrees": 169.51256879976214,
+    "clean": 173.78851692863518,
+    "degraded": 175.52130836885266,
+    "detected": 175.03456810284368
+  },
+  {
+    "annotation_id": 509292,
+    "side": "right",
+    "gt_degrees": 122.20271562977655,
+    "clean": 143.9721913784208,
+    "degraded": 152.9208167897772,
+    "detected": 146.54006122048764
+  },
+  {
+    "annotation_id": 1709501,
+    "side": "left",
+    "gt_degrees": 147.06783198715908,
+    "clean": 169.74460660228553,
+    "degraded": 170.9682000358749,
+    "detected": 177.42062653560586
+  },
+  {
+    "annotation_id": 1709501,
+    "side": "right",
+    "gt_degrees": 135.77623488238726,
+    "clean": 151.7355968166644,
+    "degraded": 153.48052691555307,
+    "detected": 152.85423594242408
+  },
+  {
+    "annotation_id": 202581,
+    "side": "left",
+    "gt_degrees": 179.7015871800057,
+    "clean": 177.83574298726236,
+    "degraded": 177.50758648645825,
+    "detected": 177.89600085432107
+  },
+  {
+    "annotation_id": 202581,
+    "side": "right",
+    "gt_degrees": 177.3974377975002,
+    "clean": 176.6312406802,
+    "degraded": 177.96619568891592,
+    "detected": 177.00189284321496
+  },
+  {
+    "annotation_id": 430662,
+    "side": "left",
+    "gt_degrees": 24.868895084480027,
+    "clean": 26.606392752893623,
+    "degraded": 28.414560910024882,
+    "detected": 27.45554248352273
+  },
+  {
+    "annotation_id": 430662,
+    "side": "right",
+    "gt_degrees": 21.302905460310075,
+    "clean": 41.80079775547882,
+    "degraded": 136.8315919562778,
+    "detected": 95.1682108346748
+  },
+  {
+    "annotation_id": 424921,
+    "side": "left",
+    "gt_degrees": 168.93261185035766,
+    "clean": 165.58605840479868,
+    "degraded": 166.03306110717247,
+    "detected": 166.76905100317572
+  },
+  {
+    "annotation_id": 424921,
+    "side": "right",
+    "gt_degrees": 177.75287109635684,
+    "clean": 178.25605661928324,
+    "degraded": 176.95379409658196,
+    "detected": 179.14966076493081
+  },
+  {
+    "annotation_id": 437327,
+    "side": "left",
+    "gt_degrees": 157.03472801198419,
+    "clean": 153.3807506375095,
+    "degraded": 154.57269318579338,
+    "detected": 152.64837500503458
+  },
+  {
+    "annotation_id": 437327,
+    "side": "right",
+    "gt_degrees": 168.40782458970895,
+    "clean": 169.03126401117441,
+    "degraded": 169.42041996581364,
+    "detected": 168.81288420376447
+  },
+  {
+    "annotation_id": 494225,
+    "side": "left",
+    "gt_degrees": 178.7684790828761,
+    "clean": 176.47431386481364,
+    "degraded": 176.71842475678648,
+    "detected": 176.5810805558702
+  },
+  {
+    "annotation_id": 494225,
+    "side": "right",
+    "gt_degrees": 158.71470365092566,
+    "clean": 163.30190883920156,
+    "degraded": 165.06999597503653,
+    "detected": 164.65611819515559
+  },
+  {
+    "annotation_id": 504454,
+    "side": "left",
+    "gt_degrees": 154.7281665354887,
+    "clean": 174.08123068700755,
+    "degraded": 170.24758145435453,
+    "detected": 153.07695279250981
+  },
+  {
+    "annotation_id": 504454,
+    "side": "right",
+    "gt_degrees": 170.1975032847548,
+    "clean": 166.89532727611882,
+    "degraded": 167.59240801151668,
+    "detected": 178.9699069287503
+  },
+  {
+    "annotation_id": 218627,
+    "side": "left",
+    "gt_degrees": 165.7369506724926,
+    "clean": 162.64113564361665,
+    "degraded": 164.46415461817006,
+    "detected": 163.19831205436043
+  },
+  {
+    "annotation_id": 501149,
+    "side": "left",
+    "gt_degrees": 160.05761541830302,
+    "clean": 161.6951054668505,
+    "degraded": 161.66663255224495,
+    "detected": 162.00008417048272
+  },
+  {
+    "annotation_id": 501149,
+    "side": "right",
+    "gt_degrees": 162.13032937488262,
+    "clean": 161.46122871112695,
+    "degraded": 161.30148837655648,
+    "detected": 161.58119883648078
+  },
+  {
+    "annotation_id": 511965,
+    "side": "left",
+    "gt_degrees": 177.08415147675152,
+    "clean": 179.63530103914943,
+    "degraded": 179.0165228095712,
+    "detected": 179.63258364198555
+  },
+  {
+    "annotation_id": 511965,
+    "side": "right",
+    "gt_degrees": 176.35398900128652,
+    "clean": 178.35252622811066,
+    "degraded": 176.9722485535149,
+    "detected": 177.61403352187395
+  },
+  {
+    "annotation_id": 535534,
+    "side": "left",
+    "gt_degrees": 178.44114203568424,
+    "clean": 179.9306122087704,
+    "degraded": 179.54471851185207,
+    "detected": 179.79469141904428
+  },
+  {
+    "annotation_id": 535534,
+    "side": "right",
+    "gt_degrees": 179.0519294294592,
+    "clean": 175.1776960005937,
+    "degraded": 177.9862091883492,
+    "detected": 173.5032360737512
+  },
+  {
+    "annotation_id": 550324,
+    "side": "left",
+    "gt_degrees": 179.8673369966268,
+    "clean": 176.4375630891896,
+    "degraded": 176.63292372680323,
+    "detected": 175.70135906305498
+  },
+  {
+    "annotation_id": 550324,
+    "side": "right",
+    "gt_degrees": 175.03025927188978,
+    "clean": 176.30420913272783,
+    "degraded": 175.458034953821,
+    "detected": 175.38759517435446
+  },
+  {
+    "annotation_id": 550721,
+    "side": "left",
+    "gt_degrees": 173.90811289170384,
+    "clean": 176.84901691276602,
+    "degraded": 176.20476256683298,
+    "detected": 174.19116891931827
+  },
+  {
+    "annotation_id": 550721,
+    "side": "right",
+    "gt_degrees": 178.63607246839683,
+    "clean": 179.4664121081125,
+    "degraded": 176.78982056557138,
+    "detected": 179.69681393741385
+  },
+  {
+    "annotation_id": 551278,
+    "side": "left",
+    "gt_degrees": 174.49452214202168,
+    "clean": 178.0741048631501,
+    "degraded": 178.58632347206338,
+    "detected": 177.65184590782258
+  },
+  {
+    "annotation_id": 551278,
+    "side": "right",
+    "gt_degrees": 180.0,
+    "clean": 178.37318358825257,
+    "degraded": 177.4153782752475,
+    "detected": 178.50771701735312
+  },
+  {
+    "annotation_id": 1696074,
+    "side": "left",
+    "gt_degrees": 177.6112154669358,
+    "clean": 174.02762040369382,
+    "degraded": 177.4760685597828,
+    "detected": 174.3700006170184
+  },
+  {
+    "annotation_id": 1696074,
+    "side": "right",
+    "gt_degrees": 177.92318968398567,
+    "clean": 178.40386054850254,
+    "degraded": 178.1744194485633,
+    "detected": 179.85899401850344
+  },
+  {
+    "annotation_id": 1239728,
+    "side": "left",
+    "gt_degrees": 179.5367019076577,
+    "clean": 176.40739352534538,
+    "degraded": 178.79068485386296,
+    "detected": 175.58722234918665
+  },
+  {
+    "annotation_id": 484547,
+    "side": "right",
+    "gt_degrees": 167.00538320808352,
+    "clean": 163.9579973058379,
+    "degraded": 166.78835797916162,
+    "detected": 166.9369106939705
+  },
+  {
+    "annotation_id": 204595,
+    "side": "left",
+    "gt_degrees": 178.2158932591887,
+    "clean": 173.91963714339616,
+    "degraded": 176.41493343842663,
+    "detected": 173.564876673209
+  },
+  {
+    "annotation_id": 237810,
+    "side": "left",
+    "gt_degrees": 165.25056789705587,
+    "clean": 165.21778137971376,
+    "degraded": 168.36137925330155,
+    "detected": 164.34159471839772
+  },
+  {
+    "annotation_id": 237810,
+    "side": "right",
+    "gt_degrees": 177.0821092282138,
+    "clean": 176.77063796933348,
+    "degraded": 179.80936003626343,
+    "detected": 176.49391817394894
+  },
+  {
+    "annotation_id": 238935,
+    "side": "right",
+    "gt_degrees": 164.78203808778593,
+    "clean": 177.33651080235808,
+    "degraded": 159.8749901435798,
+    "detected": 177.00202923329388
+  },
+  {
+    "annotation_id": 239060,
+    "side": "right",
+    "gt_degrees": 161.44236232923893,
+    "clean": 151.51453347489783,
+    "degraded": 174.75734132785087,
+    "detected": 151.17403233580436
+  },
+  {
+    "annotation_id": 540500,
+    "side": "right",
+    "gt_degrees": 170.8160807491556,
+    "clean": 170.75361268751143,
+    "degraded": 176.23805445843553,
+    "detected": 171.18347957012142
+  },
+  {
+    "annotation_id": 1712516,
+    "side": "right",
+    "gt_degrees": 98.67317404787977,
+    "clean": 92.60264324760351,
+    "degraded": 7.990212723007616,
+    "detected": 94.09611016115933
+  },
+  {
+    "annotation_id": 480592,
+    "side": "left",
+    "gt_degrees": 178.25741193272802,
+    "clean": 179.47338239208872,
+    "degraded": 178.80872991906512,
+    "detected": 179.90272669383066
+  },
+  {
+    "annotation_id": 512532,
+    "side": "right",
+    "gt_degrees": 143.62831396676964,
+    "clean": 157.9805770870295,
+    "degraded": 176.72406698553488,
+    "detected": 157.60754368138785
+  },
+  {
+    "annotation_id": 1727935,
+    "side": "right",
+    "gt_degrees": 166.04836335113393,
+    "clean": 175.09891634552744,
+    "degraded": 177.35988255339473,
+    "detected": 172.6060715093611
+  },
+  {
+    "annotation_id": 1736509,
+    "side": "left",
+    "gt_degrees": 179.43316527155926,
+    "clean": 174.02005029953835,
+    "degraded": 177.87273304179635,
+    "detected": 174.53317898085157
+  },
+  {
+    "annotation_id": 1736509,
+    "side": "right",
+    "gt_degrees": 177.344399558451,
+    "clean": 179.1427708550025,
+    "degraded": 176.37095544995614,
+    "detected": 179.7820420287244
+  },
+  {
+    "annotation_id": 2161893,
+    "side": "right",
+    "gt_degrees": 177.69007170927867,
+    "clean": 169.12197758892557,
+    "degraded": 163.80911635765577,
+    "detected": 164.36459542333526
+  },
+  {
+    "annotation_id": 198075,
+    "side": "left",
+    "gt_degrees": 157.14518003822332,
+    "clean": 171.7321177245489,
+    "degraded": 171.5613571488125,
+    "detected": 169.04095921958339
+  },
+  {
+    "annotation_id": 198075,
+    "side": "right",
+    "gt_degrees": 158.6820877245385,
+    "clean": 160.98664652549124,
+    "degraded": 166.21194508888988,
+    "detected": 160.76874515447722
+  },
+  {
+    "annotation_id": 212652,
+    "side": "left",
+    "gt_degrees": 177.73114784726974,
+    "clean": 177.87478502649702,
+    "degraded": 176.44353260368166,
+    "detected": 178.2543897514193
+  },
+  {
+    "annotation_id": 212652,
+    "side": "right",
+    "gt_degrees": 179.75479844624823,
+    "clean": 178.38483489171918,
+    "degraded": 178.70532954615024,
+    "detected": 179.17877570245528
+  },
+  {
+    "annotation_id": 234292,
+    "side": "left",
+    "gt_degrees": 176.0548137709624,
+    "clean": 177.56233053397725,
+    "degraded": 176.19810871387756,
+    "detected": 179.2131317903004
+  },
+  {
+    "annotation_id": 234292,
+    "side": "right",
+    "gt_degrees": 178.02974778184432,
+    "clean": 179.51027594132097,
+    "degraded": 179.83912747902386,
+    "detected": 179.94069577245315
+  },
+  {
+    "annotation_id": 464947,
+    "side": "left",
+    "gt_degrees": 169.71237180052475,
+    "clean": 174.3921261339267,
+    "degraded": 176.42980773847114,
+    "detected": 175.92741956447176
+  },
+  {
+    "annotation_id": 464947,
+    "side": "right",
+    "gt_degrees": 176.89916003783813,
+    "clean": 179.41041820519865,
+    "degraded": 176.87783612064564,
+    "detected": 179.39823814567566
+  },
+  {
+    "annotation_id": 1211032,
+    "side": "right",
+    "gt_degrees": 107.94478776238593,
+    "clean": 104.84071829185272,
+    "degraded": 116.09160364766865,
+    "detected": 105.79737915369753
+  },
+  {
+    "annotation_id": 1217336,
+    "side": "left",
+    "gt_degrees": 152.22748822645096,
+    "clean": 154.34736591980942,
+    "degraded": 156.64023851144432,
+    "detected": 156.4302270093885
+  },
+  {
+    "annotation_id": 1227106,
+    "side": "left",
+    "gt_degrees": 177.2827555112025,
+    "clean": 176.32895606521922,
+    "degraded": 174.63296250359636,
+    "detected": 176.8440713886644
+  },
+  {
+    "annotation_id": 1287263,
+    "side": "left",
+    "gt_degrees": 172.46589737336743,
+    "clean": 173.93945829545265,
+    "degraded": 175.7215620326449,
+    "detected": 174.14100281201414
+  },
+  {
+    "annotation_id": 1287263,
+    "side": "right",
+    "gt_degrees": 166.4962607882577,
+    "clean": 173.50023624210945,
+    "degraded": 171.6483248952848,
+    "detected": 172.94062837672303
+  },
+  {
+    "annotation_id": 1297145,
+    "side": "left",
+    "gt_degrees": 146.06577580057717,
+    "clean": 148.3108115997548,
+    "degraded": 147.98014436485184,
+    "detected": 148.56993531829602
+  },
+  {
+    "annotation_id": 1297145,
+    "side": "right",
+    "gt_degrees": 157.79111348474262,
+    "clean": 163.3292863419795,
+    "degraded": 167.29079459856464,
+    "detected": 167.554131709005
+  },
+  {
+    "annotation_id": 235367,
+    "side": "left",
+    "gt_degrees": 163.50510899493779,
+    "clean": 157.9848547575238,
+    "degraded": 168.63149757006644,
+    "detected": 161.131563783016
+  },
+  {
+    "annotation_id": 447987,
+    "side": "left",
+    "gt_degrees": 169.04054709559753,
+    "clean": 164.13163142246913,
+    "degraded": 164.5556334962695,
+    "detected": 162.74091466351834
+  },
+  {
+    "annotation_id": 447987,
+    "side": "right",
+    "gt_degrees": 130.34966892698196,
+    "clean": 147.31827718249784,
+    "degraded": 152.1018439284382,
+    "detected": 148.02904724002016
+  },
+  {
+    "annotation_id": 510005,
+    "side": "left",
+    "gt_degrees": 177.55033737987293,
+    "clean": 176.9725031743685,
+    "degraded": 177.58511564285715,
+    "detected": 179.79871406269314
+  },
+  {
+    "annotation_id": 510005,
+    "side": "right",
+    "gt_degrees": 169.09810178757394,
+    "clean": 167.41724653173117,
+    "degraded": 164.74872760000505,
+    "detected": 166.28058268477636
+  },
+  {
+    "annotation_id": 1218607,
+    "side": "left",
+    "gt_degrees": 169.82143495666227,
+    "clean": 166.72963842181153,
+    "degraded": 169.5171322439532,
+    "detected": 166.27709138870972
+  },
+  {
+    "annotation_id": 1218607,
+    "side": "right",
+    "gt_degrees": 167.12499844038754,
+    "clean": 168.9273317926121,
+    "degraded": 178.81164432923362,
+    "detected": 169.51859279233338
+  },
+  {
+    "annotation_id": 448505,
+    "side": "left",
+    "gt_degrees": 45.67380029108848,
+    "clean": 41.391529965095025,
+    "degraded": 43.846026610722035,
+    "detected": 43.753056585154056
+  },
+  {
+    "annotation_id": 448505,
+    "side": "right",
+    "gt_degrees": 34.50480280460422,
+    "clean": 36.855332209702446,
+    "degraded": 42.58157483470787,
+    "detected": 37.13873363208626
+  },
+  {
+    "annotation_id": 498458,
+    "side": "left",
+    "gt_degrees": 141.68003098814822,
+    "clean": 114.66315554167792,
+    "degraded": 118.30310508694357,
+    "detected": 113.00684597459176
+  },
+  {
+    "annotation_id": 498458,
+    "side": "right",
+    "gt_degrees": 175.69977727773917,
+    "clean": 165.23483933693598,
+    "degraded": 171.02791098848405,
+    "detected": 165.45970596656713
+  },
+  {
+    "annotation_id": 541792,
+    "side": "left",
+    "gt_degrees": 85.43194800657247,
+    "clean": 89.76063546602256,
+    "degraded": 164.40839980427396,
+    "detected": 87.29481895848002
+  },
+  {
+    "annotation_id": 541792,
+    "side": "right",
+    "gt_degrees": 170.07025369724394,
+    "clean": 167.880754517753,
+    "degraded": 169.87601598477696,
+    "detected": 170.13166833160764
+  },
+  {
+    "annotation_id": 191529,
+    "side": "right",
+    "gt_degrees": 59.882981653585624,
+    "clean": 66.58639634737932,
+    "degraded": 68.01858078314973,
+    "detected": 67.61058993666497
+  },
+  {
+    "annotation_id": 430413,
+    "side": "left",
+    "gt_degrees": 140.94686305397352,
+    "clean": 146.05548846369183,
+    "degraded": 152.7856335922949,
+    "detected": 147.50800776519642
+  },
+  {
+    "annotation_id": 430413,
+    "side": "right",
+    "gt_degrees": 176.52089110715195,
+    "clean": 179.14326720251867,
+    "degraded": 177.85257675990343,
+    "detected": 179.38719746146504
+  },
+  {
+    "annotation_id": 487194,
+    "side": "left",
+    "gt_degrees": 174.60304829347368,
+    "clean": 178.43585670962278,
+    "degraded": 175.92419619380937,
+    "detected": 178.25813282781425
+  },
+  {
+    "annotation_id": 487194,
+    "side": "right",
+    "gt_degrees": 172.3039482779834,
+    "clean": 174.40271956924278,
+    "degraded": 178.96739513211114,
+    "detected": 174.56212952613956
+  },
+  {
+    "annotation_id": 2207717,
+    "side": "left",
+    "gt_degrees": 134.3414568224364,
+    "clean": 133.9020692162744,
+    "degraded": 131.67786550176785,
+    "detected": 133.87195174970608
+  },
+  {
+    "annotation_id": 2207717,
+    "side": "right",
+    "gt_degrees": 154.69774568955194,
+    "clean": 154.48240639008458,
+    "degraded": 155.86356893589488,
+    "detected": 155.40427468203285
+  },
+  {
+    "annotation_id": 188447,
+    "side": "left",
+    "gt_degrees": 132.47050579516224,
+    "clean": 132.93868368804127,
+    "degraded": 132.2604581557468,
+    "detected": 125.420688704761
+  },
+  {
+    "annotation_id": 224724,
+    "side": "left",
+    "gt_degrees": 180.0,
+    "clean": 175.8258016147793,
+    "degraded": 178.0110145947539,
+    "detected": 175.45080503787045
+  },
+  {
+    "annotation_id": 224724,
+    "side": "right",
+    "gt_degrees": 176.18592516570973,
+    "clean": 176.88213538165164,
+    "degraded": 178.6736569961832,
+    "detected": 177.21934158949128
+  },
+  {
+    "annotation_id": 225428,
+    "side": "left",
+    "gt_degrees": 180.0,
+    "clean": 179.51618562687557,
+    "degraded": 174.86167966984252,
+    "detected": 179.9168570529698
+  },
+  {
+    "annotation_id": 225428,
+    "side": "right",
+    "gt_degrees": 180.0,
+    "clean": 178.1652420599965,
+    "degraded": 179.9254234067896,
+    "detected": 177.51169639117623
+  },
+  {
+    "annotation_id": 1709874,
+    "side": "left",
+    "gt_degrees": 133.00958004576788,
+    "clean": 127.97453863927485,
+    "degraded": 127.44398114276574,
+    "detected": 128.27152172337094
+  },
+  {
+    "annotation_id": 1287039,
+    "side": "left",
+    "gt_degrees": 81.51043075853636,
+    "clean": 85.16401256807565,
+    "degraded": 86.9769194659173,
+    "detected": 85.0466496088339
+  },
+  {
+    "annotation_id": 1287039,
+    "side": "right",
+    "gt_degrees": 100.99137304282755,
+    "clean": 103.34833967942369,
+    "degraded": 108.38794388981799,
+    "detected": 102.8031056419221
+  },
+  {
+    "annotation_id": 1299337,
+    "side": "right",
+    "gt_degrees": 125.78503803920785,
+    "clean": 134.03367648717918,
+    "degraded": 137.0385591418882,
+    "detected": 128.90546720230807
+  },
+  {
+    "annotation_id": 512187,
+    "side": "left",
+    "gt_degrees": 171.64924746766863,
+    "clean": 174.2971627427746,
+    "degraded": 174.01073312719382,
+    "detected": 173.31750201828538
+  },
+  {
+    "annotation_id": 512187,
+    "side": "right",
+    "gt_degrees": 178.75463573323168,
+    "clean": 179.81366863443554,
+    "degraded": 176.39813724138563,
+    "detected": 179.61337089307787
+  },
+  {
+    "annotation_id": 214784,
+    "side": "left",
+    "gt_degrees": 151.40925444479936,
+    "clean": 152.4317895359397,
+    "degraded": 153.1531669402161,
+    "detected": 152.2395462958894
+  },
+  {
+    "annotation_id": 225403,
+    "side": "left",
+    "gt_degrees": 152.99780023814324,
+    "clean": 152.08521995568495,
+    "degraded": 155.76175630706294,
+    "detected": 151.5272745561474
+  },
+  {
+    "annotation_id": 225403,
+    "side": "right",
+    "gt_degrees": 136.54815769897797,
+    "clean": 163.53148121392655,
+    "degraded": 167.9178704268522,
+    "detected": 161.45006107973887
+  },
+  {
+    "annotation_id": 223329,
+    "side": "left",
+    "gt_degrees": 176.18592516570962,
+    "clean": 171.55152521515708,
+    "degraded": 170.70889474481336,
+    "detected": 170.4233954912772
+  },
+  {
+    "annotation_id": 223329,
+    "side": "right",
+    "gt_degrees": 172.87498365109823,
+    "clean": 175.5534719811082,
+    "degraded": 169.26386580625174,
+    "detected": 174.7532655819407
+  },
+  {
+    "annotation_id": 236584,
+    "side": "left",
+    "gt_degrees": 172.42146452514018,
+    "clean": 163.5755565380549,
+    "degraded": 161.14533422436563,
+    "detected": 165.50431743025672
+  },
+  {
+    "annotation_id": 440378,
+    "side": "right",
+    "gt_degrees": 159.77514056883192,
+    "clean": 162.87463120261398,
+    "degraded": 168.33876663439398,
+    "detected": 160.53146392126368
+  },
+  {
+    "annotation_id": 528376,
+    "side": "left",
+    "gt_degrees": 177.23534942128057,
+    "clean": 178.46533680817717,
+    "degraded": 176.852809577069,
+    "detected": 177.92869948827067
+  },
+  {
+    "annotation_id": 528376,
+    "side": "right",
+    "gt_degrees": 168.63505479251245,
+    "clean": 176.00366194254852,
+    "degraded": 179.42550067016865,
+    "detected": 176.32284213252774
+  },
+  {
+    "annotation_id": 544943,
+    "side": "left",
+    "gt_degrees": 170.7906153131965,
+    "clean": 174.42213137296056,
+    "degraded": 176.9900776509273,
+    "detected": 175.54015620339257
+  },
+  {
+    "annotation_id": 544943,
+    "side": "right",
+    "gt_degrees": 133.73523371477984,
+    "clean": 154.48640892530884,
+    "degraded": 153.73443745986873,
+    "detected": 154.83169126524015
+  },
+  {
+    "annotation_id": 546060,
+    "side": "right",
+    "gt_degrees": 177.73114784726974,
+    "clean": 179.35352265401625,
+    "degraded": 174.71021402520952,
+    "detected": 178.74725473185688
+  },
+  {
+    "annotation_id": 191770,
+    "side": "left",
+    "gt_degrees": 165.64145567648058,
+    "clean": 175.75774386415392,
+    "degraded": 178.55635565536642,
+    "detected": 174.8162894832453
+  },
+  {
+    "annotation_id": 191770,
+    "side": "right",
+    "gt_degrees": 172.92036643726132,
+    "clean": 176.0579783778279,
+    "degraded": 175.64951533043586,
+    "detected": 175.90741001309817
+  },
+  {
+    "annotation_id": 1204981,
+    "side": "right",
+    "gt_degrees": 74.35083125461509,
+    "clean": 78.82326897295361,
+    "degraded": 104.10230504821688,
+    "detected": 77.5857907386764
+  },
+  {
+    "annotation_id": 2165431,
+    "side": "left",
+    "gt_degrees": 173.4596141718034,
+    "clean": 175.17203042484638,
+    "degraded": 44.75429181053521,
+    "detected": 179.24815698298647
+  },
+  {
+    "annotation_id": 2165431,
+    "side": "right",
+    "gt_degrees": 171.22923671726778,
+    "clean": 175.56559663104647,
+    "degraded": 41.23792225029025,
+    "detected": 177.36009659298213
+  },
+  {
+    "annotation_id": 520591,
+    "side": "left",
+    "gt_degrees": 167.94323746616735,
+    "clean": 170.91915540846546,
+    "degraded": 172.18503663221685,
+    "detected": 172.26128244696974
+  },
+  {
+    "annotation_id": 520591,
+    "side": "right",
+    "gt_degrees": 176.3324635975197,
+    "clean": 167.50251289276414,
+    "degraded": 168.76388799234374,
+    "detected": 168.80031525538286
+  },
+  {
+    "annotation_id": 2166072,
+    "side": "left",
+    "gt_degrees": 179.36906348095877,
+    "clean": 176.3873687487984,
+    "degraded": 179.2966784307507,
+    "detected": 173.61581886488975
+  },
+  {
+    "annotation_id": 2166072,
+    "side": "right",
+    "gt_degrees": 167.4693135148374,
+    "clean": 175.67093472405583,
+    "degraded": 170.78824777646145,
+    "detected": 165.77580760286895
+  },
+  {
+    "annotation_id": 452992,
+    "side": "right",
+    "gt_degrees": 90.32370152492022,
+    "clean": 176.1771973767708,
+    "degraded": 166.69405274261499,
+    "detected": 164.1041607451436
+  },
+  {
+    "annotation_id": 435295,
+    "side": "left",
+    "gt_degrees": 173.0907107096184,
+    "clean": 174.9000532117091,
+    "degraded": 173.51612927951354,
+    "detected": 176.54487643008653
+  },
+  {
+    "annotation_id": 435295,
+    "side": "right",
+    "gt_degrees": 174.98688624496418,
+    "clean": 175.06440110679327,
+    "degraded": 175.93619859928873,
+    "detected": 175.31850337226533
+  },
+  {
+    "annotation_id": 1208626,
+    "side": "left",
+    "gt_degrees": 171.79082311111742,
+    "clean": 170.0539755170839,
+    "degraded": 167.9371956911531,
+    "detected": 170.6537168330611
+  },
+  {
+    "annotation_id": 1208626,
+    "side": "right",
+    "gt_degrees": 177.73524545177634,
+    "clean": 178.95902736189427,
+    "degraded": 176.7849344339757,
+    "detected": 178.7061980910911
+  },
+  {
+    "annotation_id": 1676801,
+    "side": "left",
+    "gt_degrees": 136.60707524116785,
+    "clean": 138.26960413403117,
+    "degraded": 144.25455489577516,
+    "detected": 134.0044178488259
+  },
+  {
+    "annotation_id": 1676801,
+    "side": "right",
+    "gt_degrees": 168.01458588092027,
+    "clean": 174.01530449966526,
+    "degraded": 160.52579408709985,
+    "detected": 168.77481738164337
+  },
+  {
+    "annotation_id": 1680639,
+    "side": "left",
+    "gt_degrees": 92.93567344642118,
+    "clean": 55.930874083434546,
+    "degraded": 69.0821559389938,
+    "detected": 56.246275475808154
+  },
+  {
+    "annotation_id": 1680639,
+    "side": "right",
+    "gt_degrees": 125.29714276714765,
+    "clean": 10.8865438196614,
+    "degraded": 109.30725706828684,
+    "detected": 12.626850787205589
+  },
+  {
+    "annotation_id": 1690977,
+    "side": "left",
+    "gt_degrees": 150.7760644286786,
+    "clean": 150.3915250542821,
+    "degraded": 156.99770273689253,
+    "detected": 150.63427912695175
+  },
+  {
+    "annotation_id": 1690977,
+    "side": "right",
+    "gt_degrees": 167.36000491979723,
+    "clean": 172.33717177460875,
+    "degraded": 177.79576118084526,
+    "detected": 171.92174923271423
+  },
+  {
+    "annotation_id": 438675,
+    "side": "left",
+    "gt_degrees": 124.75181570593325,
+    "clean": 130.52585151057514,
+    "degraded": 139.4749799474216,
+    "detected": 129.94456096467823
+  },
+  {
+    "annotation_id": 438675,
+    "side": "right",
+    "gt_degrees": 118.60137663187626,
+    "clean": 116.12340130829968,
+    "degraded": 118.93523722632153,
+    "detected": 115.66816952211529
+  },
+  {
+    "annotation_id": 1233836,
+    "side": "left",
+    "gt_degrees": 152.4348746947993,
+    "clean": 146.08704910839597,
+    "degraded": 149.85658702365623,
+    "detected": 146.98034372548528
+  },
+  {
+    "annotation_id": 1233836,
+    "side": "right",
+    "gt_degrees": 166.33625533590842,
+    "clean": 164.91162254105197,
+    "degraded": 168.9246955714355,
+    "detected": 164.87993023546508
+  },
+  {
+    "annotation_id": 1287513,
+    "side": "right",
+    "gt_degrees": 164.856571901318,
+    "clean": 167.3450194198071,
+    "degraded": 167.71655152029308,
+    "detected": 167.96106083689224
+  },
+  {
+    "annotation_id": 1300345,
+    "side": "left",
+    "gt_degrees": 163.11095153701714,
+    "clean": 164.81707511107595,
+    "degraded": 164.26169552339204,
+    "detected": 163.7849796547615
+  },
+  {
+    "annotation_id": 1676113,
+    "side": "right",
+    "gt_degrees": 176.63353933657007,
+    "clean": 51.19550583527008,
+    "degraded": 171.26707176703343,
+    "detected": 97.1292715594365
+  },
+  {
+    "annotation_id": 2150651,
+    "side": "left",
+    "gt_degrees": 172.511782306823,
+    "clean": 170.1373361958023,
+    "degraded": 168.0659495400825,
+    "detected": 169.53269980056794
+  },
+  {
+    "annotation_id": 2150651,
+    "side": "right",
+    "gt_degrees": 163.90235703620186,
+    "clean": 161.6086240665337,
+    "degraded": 155.94770007760258,
+    "detected": 157.88293740185077
+  },
+  {
+    "annotation_id": 1295263,
+    "side": "left",
+    "gt_degrees": 108.32861591775635,
+    "clean": 113.71903595411092,
+    "degraded": 113.8400566491276,
+    "detected": 113.64568191076944
+  },
+  {
+    "annotation_id": 1295263,
+    "side": "right",
+    "gt_degrees": 146.94039703541935,
+    "clean": 136.39720927101644,
+    "degraded": 138.71267510035415,
+    "detected": 138.77126307128
+  },
+  {
+    "annotation_id": 1304349,
+    "side": "left",
+    "gt_degrees": 100.51708120212005,
+    "clean": 108.93411893829357,
+    "degraded": 172.96272059225802,
+    "detected": 114.6779888857947
+  },
+  {
+    "annotation_id": 1321152,
+    "side": "left",
+    "gt_degrees": 171.38435181583586,
+    "clean": 170.60411059432496,
+    "degraded": 172.63243468180417,
+    "detected": 170.52250645583425
+  },
+  {
+    "annotation_id": 1321152,
+    "side": "right",
+    "gt_degrees": 175.10090754621223,
+    "clean": 175.0351526984744,
+    "degraded": 174.34962513975165,
+    "detected": 173.6881237688597
+  },
+  {
+    "annotation_id": 1324273,
+    "side": "left",
+    "gt_degrees": 168.08485292873496,
+    "clean": 174.36025556414916,
+    "degraded": 172.4119559509159,
+    "detected": 175.2322429979135
+  },
+  {
+    "annotation_id": 1235431,
+    "side": "right",
+    "gt_degrees": 172.40535663140858,
+    "clean": 169.1485639827798,
+    "degraded": 168.74012954982294,
+    "detected": 173.24792159387485
+  },
+  {
+    "annotation_id": 1764109,
+    "side": "left",
+    "gt_degrees": 178.87669728592437,
+    "clean": 177.86666524997517,
+    "degraded": 179.37187494063022,
+    "detected": 177.1629157819168
+  }
+]

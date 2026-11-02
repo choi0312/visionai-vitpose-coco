@@ -1,0 +1,22 @@
+[
+  {
+    "image_id": 33368,
+    "file_name": "000000033368.jpg",
+    "source": "http://farm5.staticflickr.com/4066/4287990820_0a3c8096ec_z.jpg",
+    "coco_url": "http://images.cocodataset.org/val2017/000000033368.jpg",
+    "license_id": 4,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "changes": "cropped views, skeleton/keypoint overlays; one blur/dark derivative; affine crop and heatmap overlays"
+  },
+  {
+    "image_id": 574702,
+    "file_name": "000000574702.jpg",
+    "source": "http://farm3.staticflickr.com/2035/2252476376_bfc3cda192_z.jpg",
+    "coco_url": "http://images.cocodataset.org/val2017/000000574702.jpg",
+    "license_id": 4,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "changes": "cropped views, skeleton/keypoint overlays; one blur/dark derivative; affine crop and heatmap overlays"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "annotation_id": 430983,
+    "image_id": 33368,
+    "clean_pck05": 1.0,
+    "degraded_pck05": 1.0
+  },
+  {
+    "annotation_id": 1216228,
+    "image_id": 574702,
+    "clean_pck05": 1.0,
+    "degraded_pck05": 0.3333333333333333
+  }
+]

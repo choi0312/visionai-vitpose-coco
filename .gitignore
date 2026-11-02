@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.private/
+.env
+*.log
+data/*.jpg
+data/*.zip
+data/person_keypoints_val2017.json
+*.pt
+*.safetensors

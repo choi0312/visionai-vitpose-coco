@@ -1,0 +1,443 @@
+[
+  {
+    "condition": "clean",
+    "threshold": 0.0,
+    "retained": 3104,
+    "coverage": 1.0,
+    "conditional_pck05": 0.8692010309278351
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.05,
+    "retained": 3101,
+    "coverage": 0.9990335051546392,
+    "conditional_pck05": 0.8700419219606579
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.1,
+    "retained": 3098,
+    "coverage": 0.9980670103092784,
+    "conditional_pck05": 0.8708844415752098
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.15000000000000002,
+    "retained": 3094,
+    "coverage": 0.9967783505154639,
+    "conditional_pck05": 0.8720103425985779
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.2,
+    "retained": 3086,
+    "coverage": 0.9942010309278351,
+    "conditional_pck05": 0.8742709008425146
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.25,
+    "retained": 3081,
+    "coverage": 0.992590206185567,
+    "conditional_pck05": 0.875365141187926
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.30000000000000004,
+    "retained": 3068,
+    "coverage": 0.9884020618556701,
+    "conditional_pck05": 0.878096479791395
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.35000000000000003,
+    "retained": 3049,
+    "coverage": 0.9822809278350515,
+    "conditional_pck05": 0.8822564775336176
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.4,
+    "retained": 3018,
+    "coverage": 0.9722938144329897,
+    "conditional_pck05": 0.8883366467859509
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.45,
+    "retained": 2993,
+    "coverage": 0.9642396907216495,
+    "conditional_pck05": 0.8930838623454728
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.5,
+    "retained": 2964,
+    "coverage": 0.9548969072164949,
+    "conditional_pck05": 0.8970985155195681
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.55,
+    "retained": 2920,
+    "coverage": 0.9407216494845361,
+    "conditional_pck05": 0.9054794520547945
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.6000000000000001,
+    "retained": 2851,
+    "coverage": 0.9184922680412371,
+    "conditional_pck05": 0.9168712732374605
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.65,
+    "retained": 2768,
+    "coverage": 0.8917525773195877,
+    "conditional_pck05": 0.9288294797687862
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.7000000000000001,
+    "retained": 2655,
+    "coverage": 0.8553479381443299,
+    "conditional_pck05": 0.9389830508474576
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.75,
+    "retained": 2503,
+    "coverage": 0.8063788659793815,
+    "conditional_pck05": 0.9536556132640831
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.8,
+    "retained": 2266,
+    "coverage": 0.7300257731958762,
+    "conditional_pck05": 0.9651368049426302
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.8500000000000001,
+    "retained": 1938,
+    "coverage": 0.6243556701030928,
+    "conditional_pck05": 0.9762641898864809
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.9,
+    "retained": 1422,
+    "coverage": 0.4581185567010309,
+    "conditional_pck05": 0.9831223628691983
+  },
+  {
+    "condition": "clean",
+    "threshold": 0.9500000000000001,
+    "retained": 731,
+    "coverage": 0.23550257731958762,
+    "conditional_pck05": 0.9904240766073872
+  },
+  {
+    "condition": "clean",
+    "threshold": 1.0,
+    "retained": 93,
+    "coverage": 0.029961340206185568,
+    "conditional_pck05": 0.989247311827957
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.0,
+    "retained": 3104,
+    "coverage": 1.0,
+    "conditional_pck05": 0.7944587628865979
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.05,
+    "retained": 3092,
+    "coverage": 0.9961340206185567,
+    "conditional_pck05": 0.797542043984476
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.1,
+    "retained": 3065,
+    "coverage": 0.9874355670103093,
+    "conditional_pck05": 0.8042414355628059
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.15000000000000002,
+    "retained": 3044,
+    "coverage": 0.9806701030927835,
+    "conditional_pck05": 0.8091327201051248
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.2,
+    "retained": 3024,
+    "coverage": 0.9742268041237113,
+    "conditional_pck05": 0.8131613756613757
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.25,
+    "retained": 2990,
+    "coverage": 0.9632731958762887,
+    "conditional_pck05": 0.8183946488294315
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.30000000000000004,
+    "retained": 2938,
+    "coverage": 0.946520618556701,
+    "conditional_pck05": 0.8298162014976175
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.35000000000000003,
+    "retained": 2897,
+    "coverage": 0.9333118556701031,
+    "conditional_pck05": 0.8367276492923714
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.4,
+    "retained": 2832,
+    "coverage": 0.9123711340206185,
+    "conditional_pck05": 0.8481638418079096
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.45,
+    "retained": 2756,
+    "coverage": 0.8878865979381443,
+    "conditional_pck05": 0.861756168359942
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.5,
+    "retained": 2668,
+    "coverage": 0.8595360824742269,
+    "conditional_pck05": 0.8751874062968515
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.55,
+    "retained": 2566,
+    "coverage": 0.8266752577319587,
+    "conditional_pck05": 0.887373343725643
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.6000000000000001,
+    "retained": 2463,
+    "coverage": 0.7934922680412371,
+    "conditional_pck05": 0.9037758830694276
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.65,
+    "retained": 2331,
+    "coverage": 0.7509664948453608,
+    "conditional_pck05": 0.9219219219219219
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.7000000000000001,
+    "retained": 2144,
+    "coverage": 0.6907216494845361,
+    "conditional_pck05": 0.9426305970149254
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.75,
+    "retained": 1930,
+    "coverage": 0.6217783505154639,
+    "conditional_pck05": 0.9559585492227979
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.8,
+    "retained": 1617,
+    "coverage": 0.5209407216494846,
+    "conditional_pck05": 0.9684601113172542
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.8500000000000001,
+    "retained": 1196,
+    "coverage": 0.3853092783505155,
+    "conditional_pck05": 0.9782608695652174
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.9,
+    "retained": 711,
+    "coverage": 0.22905927835051546,
+    "conditional_pck05": 0.9831223628691983
+  },
+  {
+    "condition": "degraded",
+    "threshold": 0.9500000000000001,
+    "retained": 263,
+    "coverage": 0.08472938144329897,
+    "conditional_pck05": 0.9771863117870723
+  },
+  {
+    "condition": "degraded",
+    "threshold": 1.0,
+    "retained": 20,
+    "coverage": 0.006443298969072165,
+    "conditional_pck05": 0.95
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.0,
+    "retained": 3055,
+    "coverage": 0.9842139175257731,
+    "conditional_pck05": 0.8700490998363338
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.05,
+    "retained": 3050,
+    "coverage": 0.9826030927835051,
+    "conditional_pck05": 0.8714754098360655
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.1,
+    "retained": 3042,
+    "coverage": 0.9800257731958762,
+    "conditional_pck05": 0.8731097961867192
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.15000000000000002,
+    "retained": 3039,
+    "coverage": 0.9790592783505154,
+    "conditional_pck05": 0.8739717012175058
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.2,
+    "retained": 3031,
+    "coverage": 0.9764819587628866,
+    "conditional_pck05": 0.8756186077202244
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.25,
+    "retained": 3020,
+    "coverage": 0.9729381443298969,
+    "conditional_pck05": 0.878476821192053
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.30000000000000004,
+    "retained": 3013,
+    "coverage": 0.9706829896907216,
+    "conditional_pck05": 0.8798539661466976
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.35000000000000003,
+    "retained": 2996,
+    "coverage": 0.9652061855670103,
+    "conditional_pck05": 0.8841789052069426
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.4,
+    "retained": 2985,
+    "coverage": 0.9616623711340206,
+    "conditional_pck05": 0.8864321608040201
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.45,
+    "retained": 2958,
+    "coverage": 0.9529639175257731,
+    "conditional_pck05": 0.8928329952670724
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.5,
+    "retained": 2937,
+    "coverage": 0.9461984536082474,
+    "conditional_pck05": 0.8968335035750766
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.55,
+    "retained": 2899,
+    "coverage": 0.9339561855670103,
+    "conditional_pck05": 0.9027250776129699
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.6000000000000001,
+    "retained": 2829,
+    "coverage": 0.9114046391752577,
+    "conditional_pck05": 0.9148108872393071
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.65,
+    "retained": 2743,
+    "coverage": 0.8836984536082474,
+    "conditional_pck05": 0.9270871308786001
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.7000000000000001,
+    "retained": 2631,
+    "coverage": 0.8476159793814433,
+    "conditional_pck05": 0.9384264538198404
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.75,
+    "retained": 2484,
+    "coverage": 0.8002577319587629,
+    "conditional_pck05": 0.9504830917874396
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.8,
+    "retained": 2239,
+    "coverage": 0.7213273195876289,
+    "conditional_pck05": 0.964716391246092
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.8500000000000001,
+    "retained": 1911,
+    "coverage": 0.6156572164948454,
+    "conditional_pck05": 0.9748822605965463
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.9,
+    "retained": 1421,
+    "coverage": 0.4577963917525773,
+    "conditional_pck05": 0.9866291344123856
+  },
+  {
+    "condition": "detected",
+    "threshold": 0.9500000000000001,
+    "retained": 706,
+    "coverage": 0.22744845360824742,
+    "conditional_pck05": 0.9915014164305949
+  },
+  {
+    "condition": "detected",
+    "threshold": 1.0,
+    "retained": 98,
+    "coverage": 0.03157216494845361,
+    "conditional_pck05": 0.9897959183673469
+  }
+]
